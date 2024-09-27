@@ -6,9 +6,9 @@ import Button from '@mui/material/Button';
 export default function Home() {
   return (
     <Stack spacing={2} direction="row">
-      <Button variant="text">Text</Button>
-      <Button variant="contained">Contained</Button>
-      <Button variant="outlined">Outlined</Button>
+      <Button variant="text">Hello</Button>
+      <Button variant="contained">Boxed</Button>
+      <Button variant="outlined">Lined</Button>
     </Stack>
   )
 
